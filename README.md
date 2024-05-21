@@ -9,10 +9,10 @@ Currently working on spring boot/angular
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OumaymaGuesmi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OumaymaGuesmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme Of The Day
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 
